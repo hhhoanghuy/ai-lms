@@ -1,0 +1,10 @@
+node_modules/
+.env
+.DS_Store
+dist/
+build/
+backend/screenshots/
+backend/backups/
+frontend/dist/
+frontend/node_modules/
+backend/node_modules/
